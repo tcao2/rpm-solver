@@ -1,1 +1,1 @@
-# kbai-package-python
+# Raven's Progressive Matrices Solver
