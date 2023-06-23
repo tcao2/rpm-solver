@@ -1,0 +1,12 @@
+# Files not to track
+Project-Code-Python/__pycache__
+Project-Code-Python/*.csv
+Project-Code-Python/*.txt
+Project-Code-Python/*.png
+Project-Code-Python/Problems/*.txt
+Project-Code-Python/.bonnie
+Project-Code-Python/bonnie
+Project-Code-Python/Process.png
+Project-Code-Python/Edge.png
+Project-Code-Python/*.pyc
+Project-Code-Python/*.zip
